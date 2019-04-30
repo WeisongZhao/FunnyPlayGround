@@ -21,3 +21,7 @@ javac Main.java
 ```
 java Main
 ```
+
+<p align='center'>
+  <img src="./resource/RPG.png" height="500">
+</p>
