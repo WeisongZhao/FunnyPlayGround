@@ -11,14 +11,14 @@ This repository is made for funny projects
 
 - Compile in command
 
-```
+```bash
 cd RPG
 javac Main.java
 
 ```
 - Have fun!
 
-```
+```bash
 java Main
 ```
 
