@@ -3,7 +3,7 @@ This repository is made for funny projects
 ## Project 1: [Draw a Peppa Pig](https://github.com/WeisongZhao/FunnyPlayGround/blob/master/DrawPig%20v2.0.py):
 
 <p align='center'>
-  <img src="./resource/DrawPig.gif" height="580">
+  <img src="./resource/DrawPig.gif"  height="580">
 </p>
 
 
@@ -25,3 +25,5 @@ java Main
 <p align='center'>
   <img src="./resource/RPG.png" height="500">
 </p>
+
+
